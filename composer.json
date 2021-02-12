@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.5",
         "ext-curl": "*",
-        "guzzlehttp/guzzle": "~5.1",
+        "guzzlehttp/guzzle": ">=5.1",
         "symfony/console": "*"
     },
     "require-dev": {
